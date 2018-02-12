@@ -1,0 +1,1 @@
+﻿Invoke-Expression RemoveTableAndBlobs.exe -t "Table1 Table2 Table3" -b "blob1 blob2 blob3" -v

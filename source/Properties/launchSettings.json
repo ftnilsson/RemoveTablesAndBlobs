@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoveTableAndBlobs": {
+      "commandName": "Project",
+      "commandLineArgs": "-t \"CompanyTable EventLogItemTable Bookings Invoices searchindex\" -b \"views-companydetailsmodel views-creditdetailsmodel views-event views-unmatchedpaymentdetailsmodel\" -v"
+    }
+  }
+}
